@@ -20,5 +20,4 @@ Aceitei o desafio inicialmente proposto pela [Leonardo Carvalho](https://github.
 ## Referências para os desafios
 
 - Youtube
-  - [Codingnepal][codingnepal]
-  - [Online Tutorials][onlinetutorials]
+  - [Codingnepal][https://www.youtube.com/c/codingnepal/videos]
