@@ -26,7 +26,7 @@ Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carv
 
 ## Desafio dia 01 - Loader Animado
 
-<img src="https://media.giphy.com/media/mOmmwGo9pyGZksvixy/giphy.gif" />
+<img src="https://j.gifs.com/YW29yW.gif" />
 
 [Meu código](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-01)
 
