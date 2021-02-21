@@ -4,7 +4,7 @@
 
 30 dias de CSS é um desafio para melhorar as habilidades com HTML e CSS construindo um mini projeto a cada dia durante 30 dias.
 
-Aceitei o desafio inicialmente proposto pela [Leonardo Carvalho](https://github.com/leon-carvalho)
+Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carvalho) e [Milena Carecho](https://github.com/MilenaCarecho)
 
 ## Data de ínicio
 
@@ -21,3 +21,15 @@ Aceitei o desafio inicialmente proposto pela [Leonardo Carvalho](https://github.
 
 - Youtube
   - [Codingnepal](https://www.youtube.com/c/codingnepal/videos)
+
+---
+
+## Desafio dia 01 - Loader Animado
+
+<img src="https://media.giphy.com/media/mOmmwGo9pyGZksvixy/giphy.gif" />
+
+[Meu código](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-01)
+
+**O que aprendi**
+
+- CSS Animations
