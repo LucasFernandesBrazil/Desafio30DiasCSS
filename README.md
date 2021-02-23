@@ -26,7 +26,7 @@ Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carv
 
 ## Desafio dia 01 - Loader Animado
 
-<img src="https://gifs.com/gif/loading-2x3PKN" />
+<img src="https://j.gifs.com/2x3PKN.gif" />
 
 [Código do desafio](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-01)
 
@@ -36,7 +36,7 @@ Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carv
 
 ## Desafio dia 02 - Book 3D
 
-<img src="https://gifs.com/gif/book3d-k8ykEE" />
+<img src="https://j.gifs.com/k8ykEE.gif" />
 
 [Código do desafio](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-02)
 
