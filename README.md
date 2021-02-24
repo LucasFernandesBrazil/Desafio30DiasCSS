@@ -46,3 +46,16 @@ Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carv
 - [CSS Perspective](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective)
 - [CSS Section](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/section)
 
+## Desafio dia 03 - Loader Animado
+
+<img src="https://j.gifs.com/xnPMr3.gif" />
+
+[Código do desafio](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-03)
+
+**O que eu utilizei**
+
+- ::Before
+- z-index
+- transform
+- transition
+
