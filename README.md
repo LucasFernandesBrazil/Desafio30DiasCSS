@@ -26,10 +26,23 @@ Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carv
 
 ## Desafio dia 01 - Loader Animado
 
-<img src="https://j.gifs.com/YW29yW.gif" />
+<img src="https://j.gifs.com/2x3PKN.gif" />
 
-[Meu código](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-01)
+[Código do desafio](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-01)
 
 **O que aprendi**
 
 - CSS Animations
+
+## Desafio dia 02 - Book 3D
+
+<img src="https://j.gifs.com/k8ykEE.gif" />
+
+[Código do desafio](https://github.com/LucasFernandesBrazil/Desafio30DiasCSS/tree/main/Day-02)
+
+**O que aprendi**
+
+- [CSS Transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+- [CSS Perspective](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective)
+- [CSS Section](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/section)
+
