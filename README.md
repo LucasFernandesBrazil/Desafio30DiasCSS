@@ -2,6 +2,8 @@
   Desafio 30 dias de CSS
 </h1>
 
+Projeto pausado -> Estou desbravando outros desafios no momento, mas pretendo voltar futuramente para esse projeto :)
+<br>
 30 dias de CSS é um desafio para melhorar as habilidades com HTML e CSS construindo um mini projeto a cada dia durante 30 dias.
 
 Aceitei o desafio proposto pelo [Leonardo Carvalho](https://github.com/leon-carvalho) e [Milena Carecho](https://github.com/MilenaCarecho)
